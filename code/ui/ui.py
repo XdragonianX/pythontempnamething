@@ -1,4 +1,5 @@
 import pygame
+import time
 
 pygame.init()
 
@@ -6,14 +7,16 @@ sinfo = pygame.display.Info()
 screen = pygame.display.set_mode((sinfo.current_w, sinfo.current_h), pygame.FULLSCREEN)
 surface = pygame.surface.Surface((1920, 1080))
 
-appsurf = pygame.surface.Surface((1920, 1040))
-topbar = pygame.surface.Surface((1920, 40))
+appsurf = pygame.surface.Surface((1920, 1080))
+topbar = pygame.surface.Surface((1920, 40), pygame.SRCALPHA)
 
 cursortex = pygame.image.load("assets/textures/mouse1.png").convert_alpha()
 cursor = pygame.cursors.Cursor((0, 0), cursortex)
 pygame.mouse.set_cursor(cursor)
 
+font1 = pygame.font.Font(None, 32)
 
+currentbg = pygame.image.load("assets/textures/bg1.png").convert()
 
 scale = min(sinfo.current_w/1920, sinfo.current_h/1080)
 def uiloop(running):
@@ -25,13 +28,17 @@ def uiloop(running):
         if event.type == pygame.QUIT:
             running = False
 
-    # topbar
-    topbar.fill((0, 255, 255))
-    surface.blit(topbar, (0, 0))
 
     # appsurf
-    appsurf.fill((255, 0, 255))
-    surface.blit(appsurf,(0, 40))
+    appsurf.blit(currentbg, (0, 0))
+    surface.blit(appsurf,(0, 0))
+
+    # topbar
+    topbar.fill((200, 200, 255, 20))
+    pygame.draw.rect(topbar, (255, 255, 255), (5, 5, 30, 30))
+    pygame.draw.rect(topbar, (255, 255, 255), (1900, 5, 15, 30))
+    topbar.blit(font1.render(f"{time.strftime("%a %b %d %H:%M:%S")}", True, (255, 255, 255)), (0, 0))
+    surface.blit(topbar, (0, 0))
 
     screen.blit(pygame.transform.scale(surface, (int(1920*scale), int(1080*scale))), ((sinfo.current_w - int(1920*scale))//2, 0))
     
