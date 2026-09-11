@@ -9,7 +9,8 @@ surface = pygame.surface.Surface((640, 480))
 appsurf = pygame.surface.Surface((640, 455))
 topbar = pygame.surface.Surface((640, 25))
 
-pygame.mouse.set_cursor("./assets/textures/mouse1.png")
+cursortex = pygame.image.load("assets/textures/mouse1.png").convert_alpha()
+pygame.mouse.set_cursor(cursortex)
 
 
 scale = min(sinfo.current_w/640, sinfo.current_h/480)
