@@ -47,126 +47,68 @@ if __name__ == "__main__":
 
 
 """
-LISSTEN TO LINKIN PARK INSTEAD 
+[Verse 1: Chester Bennington]
+Graffiti decorations, under a sky of dust
+A constant wave of tension, on top of broken trust
+The lessons that you taught me, I learned were never true
 
+[Pre-Chorus: Chester Bennington, Mike Shinoda]
+Now I find myself in question
+They point the finger at me again
+Guilty by association
+You point the finger at me again
 
-[Kanye West and T-Pain:]
-Like we always do at this time
-I go for mine, I gots to shine
-(Now throw your hands up in the sky)
-I go go for mine, I gots to shine
-(Now throw your hands up in the sky)
-I'ma get on this TV momma, I'ma
-I'ma put shit down
-(Ayy) ayy (Ayy), ayy
-(Ayy) ayy (Ayy), I'm good
+[Chorus: Chester Bennington]
+I wanna run away, never say goodbye
+I wanna know the truth, instead of wondering why
+I wanna know the answers, no more lies
+I wanna shut the door, and open up my mind
 
-[Kanye West:]
-Welcome to the good life, where niggas who sell D
-Won't even get pulled over in they new V
-The good life, let's go on a living spree
-Shit, they say the best things in life are free
-The good life, it feel like Atlanta
-It feel like L.A., it feel like Miami
-It feel like NY, summertime Chi
-Ah! (Now throw your hands up in the sky)
-So I roll through good
-Y'all pop the trunk, I pop the hood, Ferrari
-And she got the goods
-And she got that ass, I got to look, sorry!
+[Verse 2: Chester Bennington]
+Paper bags and angry voices, under a sky of dust
+Another wave of tension, has more than filled me up
+All my talk of taking action, these words were never true
 
-Yo, it's got to be 'cause I'm seasoned
-Haters give me them salty looks, Lawry's
-50 told me, "Go 'head, switch the style up
-And if they hate then let 'em hate and watch the money pile up"
-The good life
+[Pre-Chorus: Chester Bennington, Mike Shinoda]
+Now I find myself in question
+They point the finger at me again
+Guilty by association
+You point the finger at me again
+You might also like
+With You
+Linkin Park
+Points of Authority
+Linkin Park
+A Place for My Head
+Linkin Park
+[Chorus: Chester Bennington]
+I wanna run away, never say goodbye
+I wanna know the truth, instead of wondering why
+I wanna know the answers, no more lies
+I wanna shut the door, and open up my mind
 
-[Kanye West and T-Pain:]
-Now I, I go for mine, I got to shine
-(Now throw your hands up in the sky)
-Now I, I go for mine, I got to shine
-(Now throw your hands up in the sky)
-(I'ma get on this TV momma, I'ma)
-(I'ma put shit down)
-Ayy (Ayy), ayy (Ayy)
-Ayy (Ayy), ayy (I'm good)
+[Bridge: Chester Bennington, Mike Shinoda]
+I'm gonna run away, and never say goodbye
+Gonna run away, gonna run away
+Gonna run away, gonna run away
+I'm gonna run away, and never wonder why
+Gonna run away, gonna run away
+Gonna run away, gonna run away
+I'm gonna run away, and open up my mind
+Gonna run away, gonna run away
+Mind (Gonna run away, gonna run away)
+Mind (Gonna run away, gonna run away)
+Mind (Gonna run away, gonna run away)
 
-[Kanye West (T-Pain):]
-Welcome to the good life!
-Where we like the girls who ain't on TV
-'Cause they got more (Ass than the models)
-The good life, so keep it comin' with the bottles
-'Cause she feel booze like she bombed at Apollo
-The good life, it feel like Houston
-It feel like Philly, it feel like D.C
-It feel like VA or the Bay or Yay
-Ayy, this is the good life (Welcome to the good life)
-Homie, tell me what's good
-Why I only got a problem when you in the hood (Welcome to the good life)
-Like I'm new in the hood
-The only thing I wish, I wish a nigga would (Welcome to the good life!)
-He probably think he could
-But, but, I don't think he should (Welcome to the good life)
-50 told me, "Go 'head, switch the style up
-And if they hate then let 'em hate and watch the money pile up"
-The good life[Kanye West and T-Pain:]
-Like we always do at this time
-I go for mine, I gots to shine
-(Now throw your hands up in the sky)
-I go go for mine, I gots to shine
-(Now throw your hands up in the sky)
-I'ma get on this TV momma, I'ma
-I'ma put shit down
-(Ayy) ayy (Ayy), ayy
-(Ayy) ayy (Ayy), I'm good
+[Chorus: Chester Bennington]
+I wanna run away, never say goodbye
+I wanna know the truth, instead of wondering why
+I wanna know the answers, no more lies
+I wanna shut the door, and open up my mind
 
-[Kanye West:]
-Welcome to the good life, where niggas who sell D
-Won't even get pulled over in they new V
-The good life, let's go on a living spree
-Shit, they say the best things in life are free
-The good life, it feel like Atlanta
-It feel like L.A., it feel like Miami
-It feel like NY, summertime Chi
-Ah! (Now throw your hands up in the sky)
-So I roll through good
-Y'all pop the trunk, I pop the hood, Ferrari
-And she got the goods
-And she got that ass, I got to look, sorry!
-
-Yo, it's got to be 'cause I'm seasoned
-Haters give me them salty looks, Lawry's
-50 told me, "Go 'head, switch the style up
-And if they hate then let 'em hate and watch the money pile up"
-The good life
-
-[Kanye West and T-Pain:]
-Now I, I go for mine, I got to shine
-(Now throw your hands up in the sky)
-Now I, I go for mine, I got to shine
-(Now throw your hands up in the sky)
-(I'ma get on this TV momma, I'ma)
-(I'ma put shit down)
-Ayy (Ayy), ayy (Ayy)
-Ayy (Ayy), ayy (I'm good)
-
-[Kanye West (T-Pain):]
-Welcome to the good life!
-Where we like the girls who ain't on TV
-'Cause they got more (Ass than the models)
-The good life, so keep it comin' with the bottles
-'Cause she feel booze like she bombed at Apollo
-The good life, it feel like Houston
-It feel like Philly, it feel like D.C
-It feel like VA or the Bay or Yay
-Ayy, this is the good life (Welcome to the good life)
-Homie, tell me what's good
-Why I only got a problem when you in the hood (Welcome to the good life)
-Like I'm new in the hood
-The only thing I wish, I wish a nigga would (Welcome to the good life!)
-He probably think he could
-But, but, I don't think he should (Welcome to the good life)
-50 told me, "Go 'head, switch the style up
-And if they hate then let 'em hate and watch the money pile up"
-The good life
+[Outro: Chester Bennington, Chester Bennington & Mike Shinoda]
+I wanna run away and open up my mind
+I wanna run away and open up my mind
+I wanna run away and open up my mind
+I wanna run away and open up my mind
 """

@@ -13,6 +13,8 @@ cursortex = pygame.image.load("assets/textures/mouse1.png").convert_alpha()
 cursor = pygame.cursors.Cursor((0, 0), cursortex)
 pygame.mouse.set_cursor(cursor)
 
+
+
 scale = min(sinfo.current_w/640, sinfo.current_h/480)
 def uiloop(running):
     mpos = (
@@ -32,6 +34,7 @@ def uiloop(running):
     surface.blit(appsurf,(0, 20))
 
     screen.blit(pygame.transform.scale(surface, (int(640*scale), int(480*scale))), ((sinfo.current_w - int(640*scale))//2, 0))
+    
     pygame.display.flip()
 
     return running
