@@ -6,11 +6,12 @@ sinfo = pygame.display.Info()
 screen = pygame.display.set_mode((sinfo.current_w, sinfo.current_h), pygame.FULLSCREEN)
 surface = pygame.surface.Surface((640, 480))
 
-appsurf = pygame.surface.Surface((640, 455))
-topbar = pygame.surface.Surface((640, 25))
+appsurf = pygame.surface.Surface((640, 460))
+topbar = pygame.surface.Surface((640, 20))
 
 cursortex = pygame.image.load("assets/textures/mouse1.png").convert_alpha()
-pygame.mouse.set_cursor(cursortex)
+cursor = pygame.cursors.Cursor((0, 0), cursortex)
+pygame.mouse.set_cursor(cursor)
 
 
 scale = min(sinfo.current_w/640, sinfo.current_h/480)
@@ -30,7 +31,7 @@ def uiloop(running):
 
     # appsurf
     appsurf.fill((255, 0, 255))
-    surface.blit(appsurf,(0, 25))
+    surface.blit(appsurf,(0, 20))
 
     if pygame.mouse.get_pressed()[0]:
         surface.fill((255, 255, 255), (mpos[0], mpos[1], 10, 10))
