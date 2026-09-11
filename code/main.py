@@ -47,6 +47,9 @@ if __name__ == "__main__":
 
 
 """
+LISSTEN TO LINKIN PARK INSTEAD 
+
+
 [Kanye West and T-Pain:]
 Like we always do at this time
 I go for mine, I gots to shine
